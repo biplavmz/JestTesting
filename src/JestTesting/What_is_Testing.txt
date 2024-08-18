@@ -1,0 +1,24 @@
+Q1 What is Testing 
+
+ans :- Software testing is a process of finding errors in a Software production before it launch 
+
+validate functioning and feature of software 
+
+
+Q2. How Many Type of Testing 
+. There are 2 type of testing 
+ 1. Manual Testing    2. Automation Testing
+
+ Testing By Developer
+
+ 1.Unit Testing :- Testing individual Units or Components 
+ 2.Integrated Testing :- Testing between two units or components 
+ 3.E-2-E Testing :- Test Start to end complete project
+
+ basically Developer have to do unit testing
+
+ React Testing Tools :- 1.Jest Framework 2.React Testing Library
+
+
+ when we are doing the testing of specific component than we are called it as a unit testing
+ 

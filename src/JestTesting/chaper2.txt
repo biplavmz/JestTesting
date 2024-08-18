@@ -1,0 +1,21 @@
+How can to run the Testing Script  
+:- npm run test
+
+// press :- a to run all Test 
+// press :- f to run only failed Test 
+// press :- q to quit watch mode.
+// press :- p to filter by a filename regex pattern
+// press :- t to filter by a test name regex pattern
+// press :- Enter to trigger a test run
+
+
+Write a Basic Test Case 
+
+-> make Js File a simple function 
+-> make Test file 
+-> What is Test Function 
+-> What is expect Function
+-> Write Test case 
+-> Run Test Case 
+
+
